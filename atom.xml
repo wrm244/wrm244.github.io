@@ -6,7 +6,7 @@
   <link href="https://wrm244.github.io/atom.xml" rel="self"/>
   
   <link href="https://wrm244.github.io/"/>
-  <updated>2023-04-12T09:41:40.477Z</updated>
+  <updated>2023-04-12T14:30:47.998Z</updated>
   <id>https://wrm244.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://wrm244.github.io/2023/04/12/test/"/>
+    <id>https://wrm244.github.io/2023/04/12/test/</id>
+    <published>2023-04-12T14:22:46.000Z</published>
+    <updated>2023-04-12T14:30:47.998Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;测试文本&quot;&gt;&lt;a href=&quot;#测试文本&quot; class=&quot;headerlink&quot; title=&quot;测试文本&quot;&gt;&lt;/a&gt;测试文本&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/2023/04/12/test/1.jpg&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Welcome" scheme="https://wrm244.github.io/tags/Welcome/"/>
+    
+    <category term="Computer Science" scheme="https://wrm244.github.io/tags/Computer-Science/"/>
+    
+  </entry>
   
   <entry>
     <title>Docker部署Overleaf包含中文字体与全套texlive镜像</title>
