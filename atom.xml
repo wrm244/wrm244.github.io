@@ -6,7 +6,7 @@
   <link href="https://wrm244.github.io/atom.xml" rel="self"/>
   
   <link href="https://wrm244.github.io/"/>
-  <updated>2023-04-12T15:51:03.662Z</updated>
+  <updated>2023-04-12T17:40:50.654Z</updated>
   <id>https://wrm244.github.io/</id>
   
   <author>
@@ -17,18 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>hexo优化</title>
+    <link href="https://wrm244.github.io/p/3460d887.html"/>
+    <id>https://wrm244.github.io/p/3460d887.html</id>
+    <published>2023-04-12T17:38:29.000Z</published>
+    <updated>2023-04-12T17:40:50.654Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;tips&quot;&gt;
+&lt;p&gt;Hexo的插件真是个好东西！一开始部署博客的时候并没有太在意插件的问题，毕竟觉得博客主题自带的插件挺全面的，足够使用了。但是用久了总是会腻，就想着静态博客能不能整一些新操作，即使只是添加点小功能。于是就翻了翻 Hexo</summary>
+        
+      
+    
+    
+    
+    <category term="web" scheme="https://wrm244.github.io/categories/web/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Docker部署Overleaf包含中文字体与全套texlive镜像</title>
     <link href="https://wrm244.github.io/p/5f849c82.html"/>
     <id>https://wrm244.github.io/p/5f849c82.html</id>
     <published>2023-04-12T08:09:48.000Z</published>
-    <updated>2023-04-12T15:51:03.662Z</updated>
+    <updated>2023-04-12T17:33:31.357Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;blockquote&gt;
+    <summary type="html">&lt;div class=&quot;tips&quot;&gt;
 &lt;p&gt;如今&lt;code&gt;Overleaf&lt;/code&gt;已推出国内域名&lt;a</summary>
         
       
