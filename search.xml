@@ -8,7 +8,7 @@
       <link href="/2023/04/12/%E5%85%B3%E4%BA%8E%E5%9C%A8%E6%AD%A4%E6%96%87%E7%AB%A0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%87%A0%E8%A1%8C%E5%91%BD%E4%BB%A4/"/>
       <url>/2023/04/12/%E5%85%B3%E4%BA%8E%E5%9C%A8%E6%AD%A4%E6%96%87%E7%AB%A0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%87%A0%E8%A1%8C%E5%91%BD%E4%BB%A4/</url>
       
-        <content type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#在实验室主机上的PATH环境</span></span><br><span class="line"><span class="built_in">export</span> PATH=<span class="string">&quot;<span class="variable">$PATH</span>:/www/server/nodejs/v18.15.0/bin&quot;</span></span><br><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">#在实验室主机上的PATH环境export PATH&#x3D;&quot;$PATH:&#x2F;www&#x2F;server&#x2F;nodejs&#x2F;v18.15.0&#x2F;bin&quot;hexo cleanhexo generatehexo deploy</code></pre><p>$$$$</p>]]></content>
       
       
       
