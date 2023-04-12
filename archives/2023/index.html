@@ -11,7 +11,7 @@
   
   <title>
     
-      标签 
+      archive_a: 2023 
       
       
       |
@@ -123,55 +123,41 @@
 
 
       <div class="flex-container">
-        <!-- 文章详情页，展示文章具体内容，url形式：https://yoursite/文章标题/ -->
-<!-- 同时为「标签tag」，「朋友friend」，「分类categories」，「关于about」页面的承载页面，具体展示取决于page.type -->
+        <!-- 归档页，展示本站所有文章，按照年份降序归类，url形式：https://yoursite/archives/ -->
 
+<!-- last: 按年份把文章分组，当前遍历到的年份 -->
+<!-- now: 当前遍历到的文章的发布年份 -->
 
-  <!-- LaTex Display -->
-
-  
-    <script async type="text/javascript" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
-  
-  <script>
-    MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']]
-      }
-    }
-  </script>
-
-
-
-
-
-  <!-- clipboard -->
-
-  
-    <script async type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.10/dist/clipboard.min.js"></script>
-  
-  
-<script src="/js/codeCopy.js"></script>
-
-
-
-
-
-
-  <!-- 标签页 url形式：https://yoursite/tags/ -->
-  <div class="container tag-index">
-    <div>
-      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E8%AE%BA%E6%96%87/" rel="tag">论文</a><span class="tag-list-count">1</span></li></ul>
-    </div>
+<div class="container archives">
+  <div class="post-list">
+    
+        <!-- 后续文章的发布年份呈现 -->
+        <div class="content-title">
+          <h2>
+            <span>2023</span>
+          </h2>
+        </div>
+      
+      <div class="post-item" title="Docker部署Overleaf包含中文字体与全套texlive镜像">
+        <div class="time-m-d">04-12</div>
+        <div class="title">
+          <a href="/2023/04/12/web/Docker%E9%83%A8%E7%BD%B2Overleaf%E5%8C%85%E5%90%AB%E4%B8%AD%E6%96%87%E5%AD%97%E4%BD%93%E4%B8%8E%E5%85%A8%E5%A5%97texlive%E9%95%9C%E5%83%8F/">
+            <span>Docker部署Overleaf包含中文字体与全套texlive镜像</span>
+          </a>
+        </div>
+      </div>
+    
+      <div class="post-item" title="关于在此文章部署的几行命令">
+        <div class="time-m-d">04-12</div>
+        <div class="title">
+          <a href="/2023/04/12/%E5%85%B3%E4%BA%8E%E5%9C%A8%E6%AD%A4%E6%96%87%E7%AB%A0%E9%83%A8%E7%BD%B2%E7%9A%84%E5%87%A0%E8%A1%8C%E5%91%BD%E4%BB%A4/">
+            <span>关于在此文章部署的几行命令</span>
+          </a>
+        </div>
+      </div>
+    
   </div>
-  
-
-  
-
-  
-
-  
-
-  
+</div>
 
         
 <div class="footer">
@@ -457,24 +443,6 @@
 
 
         
-  
-    <div class="share-icon tools-bar-item">
-      <a href="javascript: void(0)" id="share-icon">
-        <i class="iconfont iconshare"></i>
-      </a>
-      <div class="share-content hidden">
-        
-          <a class="share-item" href="https://twitter.com/intent/tweet?text=' + tags + '&url=' + https%3A%2F%2Fwrm244.github.io%2Ftags%2Findex.html + '" target="_blank" title="Twitter">
-            <i class="iconfont icon-twitter"></i>
-          </a>
-        
-        
-          <a class="share-item" href="https://www.facebook.com/sharer.php?u=https://wrm244.github.io/tags/index.html" target="_blank" title="Facebook">
-            <i class="iconfont icon-facebooksquare"></i>
-          </a>
-        
-      </div>
-    </div>
   
   
 <script src="/js/shares.js"></script>
