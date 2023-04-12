@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>河山的技术指南</title>
+  <title>河山的技术存档</title>
   <icon>https://wrm244.github.io/icon.png</icon>
   
   <link href="https://wrm244.github.io/atom.xml" rel="self"/>
