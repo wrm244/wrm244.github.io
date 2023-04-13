@@ -29,15 +29,6 @@
   </url>
   
   <url>
-    <loc>https://wrm244.github.io/p/d87f7e0c.html</loc>
-    
-    <lastmod>2023-04-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wrm244.github.io/p/5f849c82.html</loc>
     
     <lastmod>2023-04-13</lastmod>
@@ -111,6 +102,13 @@
   
   <url>
     <loc>https://wrm244.github.io/tags/hexo/</loc>
+    <lastmod>2023-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wrm244.github.io/tags/linux-prompt/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
