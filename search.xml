@@ -67,6 +67,25 @@
     
     
     <entry>
+      <title>test</title>
+      <link href="/p/d87f7e0c.html"/>
+      <url>/p/d87f7e0c.html</url>
+      
+        <content type="html"><![CDATA[<p>测试</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Docker部署Overleaf包含中文字体与全套texlive镜像</title>
       <link href="/p/5f849c82.html"/>
       <url>/p/5f849c82.html</url>
