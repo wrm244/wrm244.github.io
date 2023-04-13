@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wrm244.github.io/p/3460d887.html</loc>
-    
-    <lastmod>2023-04-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wrm244.github.io/p/5f849c82.html</loc>
-    
-    <lastmod>2023-04-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wrm244.github.io/p/59de1f44.html</loc>
     
     <lastmod>2023-04-13</lastmod>
@@ -66,6 +48,24 @@
   
   <url>
     <loc>https://wrm244.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-04-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wrm244.github.io/p/3460d887.html</loc>
+    
+    <lastmod>2023-04-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wrm244.github.io/p/5f849c82.html</loc>
     
     <lastmod>2023-04-13</lastmod>
     
