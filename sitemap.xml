@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wrm244.github.io/p/948ca506.html</loc>
+    <loc>https://wrm244.github.io/p/e1be4ac5.html</loc>
     
     <lastmod>2023-04-14</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://wrm244.github.io/p/fef20db9.html</loc>
+    <loc>https://wrm244.github.io/p/948ca506.html</loc>
     
     <lastmod>2023-04-14</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://wrm244.github.io/about/index.html</loc>
+    <loc>https://wrm244.github.io/p/fef20db9.html</loc>
     
     <lastmod>2023-04-14</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://wrm244.github.io/categories/index.html</loc>
+    <loc>https://wrm244.github.io/about/index.html</loc>
     
     <lastmod>2023-04-14</lastmod>
     
@@ -102,6 +102,15 @@
   
   <url>
     <loc>https://wrm244.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wrm244.github.io/categories/index.html</loc>
     
     <lastmod>2023-04-14</lastmod>
     
@@ -147,6 +156,13 @@
   </url>
   
   <url>
+    <loc>https://wrm244.github.io/tags/Flarum/</loc>
+    <lastmod>2023-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://wrm244.github.io/tags/%E5%90%8E%E7%AB%AF/</loc>
     <lastmod>2023-04-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -171,6 +187,27 @@
   
   <url>
     <loc>https://wrm244.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2023-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wrm244.github.io/categories/hexo/</loc>
+    <lastmod>2023-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wrm244.github.io/categories/web/</loc>
+    <lastmod>2023-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wrm244.github.io/categories/%E5%90%8E%E7%AB%AF/</loc>
     <lastmod>2023-04-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
