@@ -6,7 +6,7 @@
   <link href="https://wrm244.github.io/atom.xml" rel="self"/>
   
   <link href="https://wrm244.github.io/"/>
-  <updated>2023-04-14T05:32:52.796Z</updated>
+  <updated>2023-04-14T06:03:48.489Z</updated>
   <id>https://wrm244.github.io/</id>
   
   <author>
@@ -21,8 +21,17 @@
     <link href="https://wrm244.github.io/p/d3447633.html"/>
     <id>https://wrm244.github.io/p/d3447633.html</id>
     <published>2023-04-14T01:38:29.000Z</published>
-    <updated>2023-04-14T05:32:52.796Z</updated>
+    <updated>2023-04-14T06:03:48.489Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;GitHub-Actions&quot;&gt;GitHub Actions&lt;/h2&gt;
+&lt;p&gt;GitHub Actions 的工作原理：我们提前设置好需要自动化执行的任务，GitHub Actions</summary>
+        
+      
     
     
     
@@ -38,7 +47,7 @@
     <link href="https://wrm244.github.io/p/12f1335d.html"/>
     <id>https://wrm244.github.io/p/12f1335d.html</id>
     <published>2023-04-13T20:28:29.000Z</published>
-    <updated>2023-04-14T05:32:52.796Z</updated>
+    <updated>2023-04-14T06:03:48.489Z</updated>
     
     
       
@@ -60,11 +69,11 @@
   </entry>
   
   <entry>
-    <title>hexo优化</title>
-    <link href="https://wrm244.github.io/p/3460d887.html"/>
-    <id>https://wrm244.github.io/p/3460d887.html</id>
+    <title>hexo插件推荐</title>
+    <link href="https://wrm244.github.io/p/912e6c38.html"/>
+    <id>https://wrm244.github.io/p/912e6c38.html</id>
     <published>2023-04-13T01:38:29.000Z</published>
-    <updated>2023-04-14T05:32:52.796Z</updated>
+    <updated>2023-04-14T06:03:48.489Z</updated>
     
     
       
@@ -72,7 +81,10 @@
         
         
     <summary type="html">&lt;div class=&quot;tips&quot;&gt;
-&lt;p&gt;Hexo的插件真是个好东西！一开始部署博客的时候并没有太在意插件的问题，毕竟觉得博客主题自带的插件挺全面的，足够使用了。但是用久了总是会腻，就想着静态博客能不能整一些新操作，即使只是添加点小功能。于是就翻了翻 Hexo</summary>
+&lt;p&gt;Hexo的插件真是个好东西！挑了些比较有用的插件，拿出来做个总结，同时也是为了方便以后使用做的一个简单记录。&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;插件安装命令&quot;&gt;插件安装命令&lt;/h2&gt;
+&lt;figure</summary>
         
       
     
@@ -90,7 +102,7 @@
     <link href="https://wrm244.github.io/p/5f849c82.html"/>
     <id>https://wrm244.github.io/p/5f849c82.html</id>
     <published>2023-04-12T16:09:48.000Z</published>
-    <updated>2023-04-14T05:32:52.796Z</updated>
+    <updated>2023-04-14T06:03:48.489Z</updated>
     
     
       
@@ -116,7 +128,7 @@
     <link href="https://wrm244.github.io/p/59de1f44.html"/>
     <id>https://wrm244.github.io/p/59de1f44.html</id>
     <published>2023-04-12T14:09:58.000Z</published>
-    <updated>2023-04-14T05:32:52.796Z</updated>
+    <updated>2023-04-14T06:03:48.489Z</updated>
     
     
       
