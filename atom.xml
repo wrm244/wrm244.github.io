@@ -6,7 +6,7 @@
   <link href="https://wrm244.github.io/atom.xml" rel="self"/>
   
   <link href="https://wrm244.github.io/"/>
-  <updated>2023-04-14T12:50:14.532Z</updated>
+  <updated>2023-04-14T13:13:06.395Z</updated>
   <id>https://wrm244.github.io/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>为什么是Nginx</title>
+    <link href="https://wrm244.github.io/p/948ca506.html"/>
+    <id>https://wrm244.github.io/p/948ca506.html</id>
+    <published>2023-04-14T21:10:23.000Z</published>
+    <updated>2023-04-14T13:13:06.395Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;tips&quot;&gt;
+&lt;p&gt;Nginx 是开源、高性能、高可靠的 Web 和反向代理服务器，而且支持热部署，几乎可以做到 7 * 24 小时不间断运行，即使运行几个月也不需要重新启动，还能在不间断服务的情况下对软件版本进行热更新。&lt;/p&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    
+    <category term="后端" scheme="https://wrm244.github.io/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+    <category term="nginx" scheme="https://wrm244.github.io/tags/nginx/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Http协议探究</title>
     <link href="https://wrm244.github.io/p/fef20db9.html"/>
     <id>https://wrm244.github.io/p/fef20db9.html</id>
     <published>2023-04-14T20:18:52.000Z</published>
-    <updated>2023-04-14T12:50:14.532Z</updated>
+    <updated>2023-04-14T13:13:06.395Z</updated>
     
     
       
@@ -47,7 +68,7 @@
     <link href="https://wrm244.github.io/p/d3447633.html"/>
     <id>https://wrm244.github.io/p/d3447633.html</id>
     <published>2023-04-14T01:38:29.000Z</published>
-    <updated>2023-04-14T12:50:14.532Z</updated>
+    <updated>2023-04-14T13:13:06.395Z</updated>
     
     
       
@@ -61,8 +82,6 @@
     
     
     
-    <category term="hexo" scheme="https://wrm244.github.io/categories/hexo/"/>
-    
     
     <category term="hexo" scheme="https://wrm244.github.io/tags/hexo/"/>
     
@@ -73,7 +92,7 @@
     <link href="https://wrm244.github.io/p/12f1335d.html"/>
     <id>https://wrm244.github.io/p/12f1335d.html</id>
     <published>2023-04-13T20:28:29.000Z</published>
-    <updated>2023-04-14T12:50:14.532Z</updated>
+    <updated>2023-04-14T13:13:06.395Z</updated>
     
     
       
@@ -87,10 +106,10 @@
     
     
     
-    <category term="hexo" scheme="https://wrm244.github.io/categories/hexo/"/>
-    
     
     <category term="hexo" scheme="https://wrm244.github.io/tags/hexo/"/>
+    
+    <category term="obsidian" scheme="https://wrm244.github.io/tags/obsidian/"/>
     
   </entry>
   
@@ -99,7 +118,7 @@
     <link href="https://wrm244.github.io/p/912e6c38.html"/>
     <id>https://wrm244.github.io/p/912e6c38.html</id>
     <published>2023-04-13T01:38:29.000Z</published>
-    <updated>2023-04-14T12:50:14.532Z</updated>
+    <updated>2023-04-14T13:13:06.395Z</updated>
     
     
       
@@ -116,8 +135,6 @@
     
     
     
-    <category term="hexo" scheme="https://wrm244.github.io/categories/hexo/"/>
-    
     
     <category term="hexo" scheme="https://wrm244.github.io/tags/hexo/"/>
     
@@ -128,7 +145,7 @@
     <link href="https://wrm244.github.io/p/5f849c82.html"/>
     <id>https://wrm244.github.io/p/5f849c82.html</id>
     <published>2023-04-12T16:09:48.000Z</published>
-    <updated>2023-04-14T12:50:14.532Z</updated>
+    <updated>2023-04-14T13:13:06.395Z</updated>
     
     
       
@@ -142,8 +159,6 @@
     
     
     
-    <category term="web" scheme="https://wrm244.github.io/categories/web/"/>
-    
     
     <category term="论文" scheme="https://wrm244.github.io/tags/%E8%AE%BA%E6%96%87/"/>
     
@@ -154,7 +169,7 @@
     <link href="https://wrm244.github.io/p/59de1f44.html"/>
     <id>https://wrm244.github.io/p/59de1f44.html</id>
     <published>2023-04-12T14:09:58.000Z</published>
-    <updated>2023-04-14T12:50:14.532Z</updated>
+    <updated>2023-04-14T13:13:06.395Z</updated>
     
     
       
@@ -166,8 +181,6 @@
       
     
     
-    
-    <category term="hexo" scheme="https://wrm244.github.io/categories/hexo/"/>
     
     
     <category term="hexo" scheme="https://wrm244.github.io/tags/hexo/"/>
