@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Http协议探究</title>
+      <link href="/p/fef20db9.html"/>
+      <url>/p/fef20db9.html</url>
+      
+        <content type="html"><![CDATA[<p>http是在应用层</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机网络 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机科学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hexo利用github action进行部署</title>
       <link href="/p/d3447633.html"/>
       <url>/p/d3447633.html</url>
