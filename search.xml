@@ -4,25 +4,6 @@
   
     
     <entry>
-      <title>bug修正</title>
-      <link href="/p/75d26490.html"/>
-      <url>/p/75d26490.html</url>
-      
-        <content type="html"><![CDATA[<h1>项目场景：</h1><p><code>提示：这里简述项目相关背景：</code></p><p>例如：项目场景：示例:通过蓝牙芯片(HC-05)与手机 APP 通信，每隔 5s 传输一批传感器数据(不是很大)</p><hr><h1>问题描述</h1><p><code>提示：这里描述项目中遇到的问题：</code></p><p>例如：数据传输过程中数据不时出现丢失的情况，偶尔会丢失一部分数据<br>APP 中接收数据代码：</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">@Override</span><br><span class="line">public <span class="type">void</span> <span class="title function_">run</span><span class="params">()</span> &#123;</span><br><span class="line">bytes = mmInStream.read(buffer);</span><br><span class="line">mHandler.obtainMessage(READ_DATA, bytes, <span class="number">-1</span>, buffer).sendToTarget();</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><hr><h1>原因分析：</h1><blockquote><p>提示：这里填写问题的分析：</p></blockquote><p>例如：<code>Handler</code> 发送消息有两种方式，分别是 <code>Handler.obtainMessage()</code>和 <code>Handler.sendMessage()</code>，其中 <code>obtainMessage</code> 方式当数据量过大时，由于 <code>MessageQuene</code> 大小也有限，所以当 <code>message</code> 处理不及时时，会造成先传的数据被覆盖，进而导致数据丢失。</p><hr><h1>解决方案：</h1><blockquote><p>提示：这里填写该问题的具体解决方案：</p></blockquote><p>例如：新建一个 <code>Message</code> 对象，并将读取到的数据存入 <code>Message</code>，然后 <code>mHandler.obtainMessage(READ_DATA, bytes, -1, buffer).sendToTarget();</code>换成 <code>mHandler.sendMessage()</code>。</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> bug </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>宝塔 Flarum 论坛的搭建与迁移</title>
       <link href="/p/e1be4ac5.html"/>
       <url>/p/e1be4ac5.html</url>
