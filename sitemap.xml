@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wrm244.github.io/p/948ca506.html</loc>
+    <loc>https://wrm244.github.io/p/e1be4ac5.html</loc>
     
     <lastmod>2023-04-15</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://wrm244.github.io/p/e1be4ac5.html</loc>
+    <loc>https://wrm244.github.io/p/948ca506.html</loc>
     
     <lastmod>2023-04-15</lastmod>
     
@@ -202,13 +202,6 @@
 
   
   <url>
-    <loc>https://wrm244.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2023-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wrm244.github.io/categories/BUG%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2023-04-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -231,6 +224,13 @@
   
   <url>
     <loc>https://wrm244.github.io/categories/%E5%90%8E%E7%AB%AF/</loc>
+    <lastmod>2023-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wrm244.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2023-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
