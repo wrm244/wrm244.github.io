@@ -6,7 +6,7 @@
   <link href="https://wrm244.github.io/atom.xml" rel="self"/>
   
   <link href="https://wrm244.github.io/"/>
-  <updated>2023-04-15T06:06:08.493Z</updated>
+  <updated>2023-04-15T06:19:30.191Z</updated>
   <id>https://wrm244.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>BUG记录模板</title>
+    <link href="https://wrm244.github.io/p/72fd6ed0.html"/>
+    <id>https://wrm244.github.io/p/72fd6ed0.html</id>
+    <published>2023-04-15T14:12:04.000Z</published>
+    <updated>2023-04-15T06:19:30.191Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;项目场景：&lt;/h1&gt;
+&lt;p&gt;&lt;code&gt;提示：这里简述项目相关背景：&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;例如：项目场景：示例:通过蓝牙芯片(HC-05)与手机 APP 通信，每隔 5s</summary>
+        
+      
+    
+    
+    
+    <category term="BUG记录" scheme="https://wrm244.github.io/categories/BUG%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="BUG" scheme="https://wrm244.github.io/tags/BUG/"/>
+    
+  </entry>
+  
+  <entry>
     <title>宝塔 Flarum 论坛的搭建与迁移</title>
     <link href="https://wrm244.github.io/p/e1be4ac5.html"/>
     <id>https://wrm244.github.io/p/e1be4ac5.html</id>
     <published>2023-04-14T21:30:27.000Z</published>
-    <updated>2023-04-15T06:06:08.493Z</updated>
+    <updated>2023-04-15T06:19:30.211Z</updated>
     
     
       
@@ -47,7 +74,7 @@
     <link href="https://wrm244.github.io/p/948ca506.html"/>
     <id>https://wrm244.github.io/p/948ca506.html</id>
     <published>2023-04-14T21:10:23.000Z</published>
-    <updated>2023-04-15T06:06:08.493Z</updated>
+    <updated>2023-04-15T06:19:30.211Z</updated>
     
     
     <summary type="html">&lt;div class=&quot;tips&quot;&gt;
@@ -70,7 +97,7 @@
     <link href="https://wrm244.github.io/p/fef20db9.html"/>
     <id>https://wrm244.github.io/p/fef20db9.html</id>
     <published>2023-04-14T20:18:52.000Z</published>
-    <updated>2023-04-15T06:06:02.905Z</updated>
+    <updated>2023-04-15T06:19:23.519Z</updated>
     
     
       
@@ -96,7 +123,7 @@
     <link href="https://wrm244.github.io/p/d3447633.html"/>
     <id>https://wrm244.github.io/p/d3447633.html</id>
     <published>2023-04-14T01:38:29.000Z</published>
-    <updated>2023-04-15T06:06:08.489Z</updated>
+    <updated>2023-04-15T06:19:30.199Z</updated>
     
     
       
@@ -122,7 +149,7 @@
     <link href="https://wrm244.github.io/p/12f1335d.html"/>
     <id>https://wrm244.github.io/p/12f1335d.html</id>
     <published>2023-04-13T20:28:29.000Z</published>
-    <updated>2023-04-15T06:06:08.485Z</updated>
+    <updated>2023-04-15T06:19:30.199Z</updated>
     
     
       
@@ -150,7 +177,7 @@
     <link href="https://wrm244.github.io/p/912e6c38.html"/>
     <id>https://wrm244.github.io/p/912e6c38.html</id>
     <published>2023-04-13T01:38:29.000Z</published>
-    <updated>2023-04-15T06:06:08.489Z</updated>
+    <updated>2023-04-15T06:19:30.203Z</updated>
     
     
       
@@ -179,7 +206,7 @@
     <link href="https://wrm244.github.io/p/5f849c82.html"/>
     <id>https://wrm244.github.io/p/5f849c82.html</id>
     <published>2023-04-12T16:09:48.000Z</published>
-    <updated>2023-04-15T06:06:08.493Z</updated>
+    <updated>2023-04-15T06:19:30.207Z</updated>
     
     
       
@@ -205,7 +232,7 @@
     <link href="https://wrm244.github.io/p/59de1f44.html"/>
     <id>https://wrm244.github.io/p/59de1f44.html</id>
     <published>2023-04-12T14:09:58.000Z</published>
-    <updated>2023-04-15T06:06:08.489Z</updated>
+    <updated>2023-04-15T06:19:30.203Z</updated>
     
     
       
