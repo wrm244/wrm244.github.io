@@ -29,6 +29,15 @@
   </url>
   
   <url>
+    <loc>https://wrm244.github.io/p/912e6c38.html</loc>
+    
+    <lastmod>2023-04-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wrm244.github.io/p/5f849c82.html</loc>
     
     <lastmod>2023-04-18</lastmod>
@@ -65,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://wrm244.github.io/p/912e6c38.html</loc>
-    
-    <lastmod>2023-04-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wrm244.github.io/p/72fd6ed0.html</loc>
     
     <lastmod>2023-04-18</lastmod>
@@ -92,24 +92,6 @@
   </url>
   
   <url>
-    <loc>https://wrm244.github.io/search/index.html</loc>
-    
-    <lastmod>2023-04-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wrm244.github.io/tags/index.html</loc>
-    
-    <lastmod>2023-04-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://wrm244.github.io/categories/index.html</loc>
     
     <lastmod>2023-04-18</lastmod>
@@ -120,6 +102,24 @@
   
   <url>
     <loc>https://wrm244.github.io/friends/index.html</loc>
+    
+    <lastmod>2023-04-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wrm244.github.io/search/index.html</loc>
+    
+    <lastmod>2023-04-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wrm244.github.io/tags/index.html</loc>
     
     <lastmod>2023-04-18</lastmod>
     
