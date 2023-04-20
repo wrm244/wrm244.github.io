@@ -6,7 +6,7 @@
   <link href="https://wrm244.github.io/atom.xml" rel="self"/>
   
   <link href="https://wrm244.github.io/"/>
-  <updated>2023-04-18T11:39:13.389Z</updated>
+  <updated>2023-04-20T12:56:21.626Z</updated>
   <id>https://wrm244.github.io/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>关于迁移到新blog的通知</title>
+    <link href="https://wrm244.github.io/p/2fbe6f8.html"/>
+    <id>https://wrm244.github.io/p/2fbe6f8.html</id>
+    <published>2023-04-20T20:45:23.000Z</published>
+    <updated>2023-04-20T12:56:21.626Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;河山的技术存档-website&quot;&gt;河山的技术存档(website)&lt;/h2&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="advice" scheme="https://wrm244.github.io/categories/advice/"/>
+    
+    
+    <category term="blog" scheme="https://wrm244.github.io/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
     <title>BUG记录模板</title>
     <link href="https://wrm244.github.io/p/72fd6ed0.html"/>
     <id>https://wrm244.github.io/p/72fd6ed0.html</id>
     <published>2023-04-15T14:12:04.000Z</published>
-    <updated>2023-04-18T11:39:13.389Z</updated>
+    <updated>2023-04-20T12:56:21.622Z</updated>
     
     
       
@@ -48,7 +74,7 @@
     <link href="https://wrm244.github.io/p/e1be4ac5.html"/>
     <id>https://wrm244.github.io/p/e1be4ac5.html</id>
     <published>2023-04-14T21:30:27.000Z</published>
-    <updated>2023-04-18T11:39:13.405Z</updated>
+    <updated>2023-04-20T12:56:21.634Z</updated>
     
     
       
@@ -74,7 +100,7 @@
     <link href="https://wrm244.github.io/p/948ca506.html"/>
     <id>https://wrm244.github.io/p/948ca506.html</id>
     <published>2023-04-14T21:10:23.000Z</published>
-    <updated>2023-04-18T11:39:13.405Z</updated>
+    <updated>2023-04-20T12:56:21.634Z</updated>
     
     
     <summary type="html">&lt;div class=&quot;tips&quot;&gt;
@@ -97,7 +123,7 @@
     <link href="https://wrm244.github.io/p/fef20db9.html"/>
     <id>https://wrm244.github.io/p/fef20db9.html</id>
     <published>2023-04-14T20:18:52.000Z</published>
-    <updated>2023-04-18T11:39:06.141Z</updated>
+    <updated>2023-04-20T12:56:12.078Z</updated>
     
     
       
@@ -123,7 +149,7 @@
     <link href="https://wrm244.github.io/p/d3447633.html"/>
     <id>https://wrm244.github.io/p/d3447633.html</id>
     <published>2023-04-14T01:38:29.000Z</published>
-    <updated>2023-04-18T11:39:13.393Z</updated>
+    <updated>2023-04-20T12:56:21.630Z</updated>
     
     
       
@@ -149,7 +175,7 @@
     <link href="https://wrm244.github.io/p/12f1335d.html"/>
     <id>https://wrm244.github.io/p/12f1335d.html</id>
     <published>2023-04-13T20:28:29.000Z</published>
-    <updated>2023-04-18T11:39:13.393Z</updated>
+    <updated>2023-04-20T12:56:21.630Z</updated>
     
     
       
@@ -177,7 +203,7 @@
     <link href="https://wrm244.github.io/p/912e6c38.html"/>
     <id>https://wrm244.github.io/p/912e6c38.html</id>
     <published>2023-04-13T01:38:29.000Z</published>
-    <updated>2023-04-18T11:39:13.397Z</updated>
+    <updated>2023-04-20T12:56:21.630Z</updated>
     
     
       
@@ -206,7 +232,7 @@
     <link href="https://wrm244.github.io/p/5f849c82.html"/>
     <id>https://wrm244.github.io/p/5f849c82.html</id>
     <published>2023-04-12T16:09:48.000Z</published>
-    <updated>2023-04-18T11:39:13.397Z</updated>
+    <updated>2023-04-20T12:56:21.630Z</updated>
     
     
       
@@ -232,7 +258,7 @@
     <link href="https://wrm244.github.io/p/59de1f44.html"/>
     <id>https://wrm244.github.io/p/59de1f44.html</id>
     <published>2023-04-12T14:09:58.000Z</published>
-    <updated>2023-04-18T11:39:13.397Z</updated>
+    <updated>2023-04-20T12:56:21.630Z</updated>
     
     
       
