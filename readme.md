@@ -2,7 +2,7 @@
 河山的技术存档静态页面代码仓
 </h2>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/wrm244/wikiblog?label=update&logo=github) [![Netlify Status](https://api.netlify.com/api/v1/badges/77e2a74d-30e3-4788-b7f1-257d746d2361/deploy-status)](https://app.netlify.com/sites/radiant-brioche-f77a52/deploys) ![Github Action](https://github.com/wrm244/wikiblog/actions/workflows/ci.yml/badge.svg) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
+![GitHub last commit](https://img.shields.io/github/last-commit/wrm244/wrm244.github.io?label=update&logo=github) [![Netlify Status](https://api.netlify.com/api/v1/badges/77e2a74d-30e3-4788-b7f1-257d746d2361/deploy-status)](https://app.netlify.com/sites/radiant-brioche-f77a52/deploys) ![Github Action](https://github.com/wrm244/wikiblog/actions/workflows/ci.yml/badge.svg) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 
 <pre align="center">
 Build with 🦖<a href="https://docusaurus.io/">Docusaurus</a>
