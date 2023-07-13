@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3278],{36111:function(a){a.exports=JSON.parse('{"title":"Java","slug":"/category/java","permalink":"/docs/category/java","navigation":{"previous":{"title":"README","permalink":"/docs/stack"},"next":{"title":"JavaScript\u5165\u95e8","permalink":"/docs/JavaScript\u57fa\u7840"}}}')}}]);

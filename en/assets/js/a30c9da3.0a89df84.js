@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[2098],{46049:function(e){e.exports=JSON.parse('{"label":"computer-science","permalink":"/en/tags/computer-science","allTagsPath":"/en/tags","count":2}')}}]);

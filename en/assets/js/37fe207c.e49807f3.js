@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[8079],{34015:function(e){e.exports=JSON.parse('{"title":"Git","slug":"/category/git","permalink":"/en/docs/category/git","navigation":{"previous":{"title":"\u81ea\u5b9a\u4e49Spring\u6846\u67b6","permalink":"/en/docs/DP_7"},"next":{"title":"Git\u57fa\u7840","permalink":"/en/docs/Git\u57fa\u7840"}}}')}}]);

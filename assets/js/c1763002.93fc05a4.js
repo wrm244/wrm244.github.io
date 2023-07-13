@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[8304],{42778:function(t){t.exports=JSON.parse('{"label":"github","permalink":"/docs/tags/github","allTagsPath":"/docs/tags","count":1,"items":[{"id":"stack/git/Conventional-Commits","title":"\u89c4\u5b9a\u5f0f\u63d0\u4ea4","description":"\u6982\u8ff0","permalink":"/docs/conventional-commits"}]}')}}]);
