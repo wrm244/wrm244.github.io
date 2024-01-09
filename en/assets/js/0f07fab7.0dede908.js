@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3570],{27074:function(a){a.exports=JSON.parse('{"label":"Flarum","permalink":"/en/tags/flarum","allTagsPath":"/en/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[296],{15447:function(e){e.exports=JSON.parse('{"label":"remote","permalink":"/en/tags/remote","allTagsPath":"/en/tags","count":1}')}}]);
