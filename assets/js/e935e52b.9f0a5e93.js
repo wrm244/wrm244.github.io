@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([["9115"],{8535(s){s.exports=JSON.parse('{"tag":{"label":"obsidian","permalink":"/docs/tags/obsidian","allTagsPath":"/docs/tags","count":1,"items":[{"id":"stack/config/testOb","title":"\u6D4B\u8BD5ob","description":"\u6D4B\u8BD5Ob","permalink":"/docs/testOb"}],"unlisted":false}}')}}]);
